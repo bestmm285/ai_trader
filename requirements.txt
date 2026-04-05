@@ -1,0 +1,11 @@
+PySimpleGUI
+PyQt5==5.15.7
+pandas
+numpy
+yfinance
+ta
+scikit-learn
+matplotlib
+joblib
+requests
+alpaca-trade-api
